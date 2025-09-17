@@ -49,11 +49,10 @@ Digite charmander → retorna Charmander.
 
 Digite 25 ou pikachu → retorna Pikachu.
 
-🌐 Deploy
+## 🌐 Deploy
 
-O projeto está disponível online em:
- ws-frontend-fabrica25-2-three.vercel.app
----
+O projeto está disponível online em:  
+👉 [ws-frontend-fabrica25-2-three.vercel.app](https://ws-frontend-fabrica25-2-three.vercel.app)
 
 ## ▶️ Como rodar o projeto
 
